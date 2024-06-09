@@ -1,0 +1,22 @@
+{
+    "name": "nwidart/page",
+    "description": "",
+    "authors": [
+        {
+            "name": "Shiv Charan Panjeta",
+            "email": "shiv@ozvid.com",
+            "homepage": "http://www.ozvid.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Page\\": ""
+        }
+    }
+}

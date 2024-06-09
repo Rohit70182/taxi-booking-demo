@@ -1,0 +1,13 @@
+{
+    "name": "Shadow",
+    "alias": "shadow",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Shadow\\Providers\\ShadowServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

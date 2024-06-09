@@ -1,0 +1,30 @@
+.cart-title {
+  color: #ffffff;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.card-results {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-results {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #3a3a3a;
+}
+.card-results .main-results {
+  margin-right: auto;
+  padding-right: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #fff;
+}
+.card.min-set {
+  min-height: 295px;
+}

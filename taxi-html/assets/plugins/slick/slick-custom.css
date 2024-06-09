@@ -1,0 +1,36 @@
+.slick-dotted.slick-slider {
+    margin-bottom: 40px;
+  }
+  
+  .slick-dotted.slick-slider .slick-dots {
+    bottom: -35px;
+  }
+  
+  .slick-dotted.slick-slider .slick-dots button {
+    padding: 0;
+    background-color: #c4c4c4;
+    -webkit-transition: .5s;
+    transition: .5s;
+    width: 10px;
+    height: 10px;
+    position: relative;
+    z-index: 1;
+    border-radius: 50px;
+    margin: 0 4px;
+  }
+  
+  .slick-dotted.slick-slider .slick-dots li {
+    margin: 0;
+    width: auto;
+    height: auto;
+  }
+  
+  .slick-dotted.slick-slider .slick-dots button::before {
+    display: none;
+  }
+  
+  .slick-dotted.slick-slider .slick-dots .slick-active button {
+    background-color: var(--primary-color);
+    width: 30px;
+  }
+  
